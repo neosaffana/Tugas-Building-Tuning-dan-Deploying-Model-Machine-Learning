@@ -1,0 +1,501 @@
+Age,Income,Education_Level,Credit_Score,Loan_Amount,Loan_Purpose,Loan_Approval
+56,24000,PhD,333,26892,Personal,0
+46,90588,Master,316,26619,Home,1
+32,113610,PhD,452,1281,Personal,1
+60,117856,High School,677,28420,Personal,0
+25,58304,PhD,641,16360,Car,0
+38,89449,High School,326,40030,Car,1
+56,102986,PhD,586,2058,Personal,1
+36,109643,Master,467,21677,Personal,0
+40,40764,High School,567,11724,Personal,0
+28,106027,Bachelor,754,29404,Car,0
+28,58494,Bachelor,700,38946,Personal,0
+41,23373,PhD,775,40748,Personal,1
+53,32161,Bachelor,429,30856,Medical,1
+57,117532,High School,662,10200,Home,1
+41,112658,Bachelor,591,34997,Education,1
+20,47350,Master,670,26611,Home,0
+39,113008,Master,328,42235,Medical,1
+19,114297,PhD,448,36057,Education,1
+41,45351,High School,595,2239,Personal,1
+61,108668,Master,310,39138,Medical,1
+47,35305,Master,811,49938,Personal,0
+55,95353,High School,412,1125,Car,1
+19,96797,Bachelor,486,46272,Medical,0
+38,85953,Bachelor,526,24857,Car,1
+50,77458,PhD,609,16398,Medical,0
+29,40358,Bachelor,397,7638,Medical,0
+39,23267,High School,354,7570,Car,1
+61,102745,Master,705,4249,Education,0
+42,109588,Bachelor,368,10110,Home,1
+44,58513,PhD,611,41363,Personal,0
+59,46092,Bachelor,588,14605,Medical,1
+45,31338,High School,847,13115,Personal,1
+33,20412,PhD,447,40062,Car,1
+32,27543,Bachelor,766,23911,Personal,0
+64,53496,PhD,543,39525,Car,0
+61,80692,High School,790,33556,Personal,0
+20,109084,Master,806,13595,Home,0
+54,112920,High School,664,2969,Home,1
+24,64425,High School,781,44753,Home,1
+38,58756,High School,500,18275,Home,1
+26,38888,High School,453,5470,Home,1
+56,55735,Master,749,11225,Home,1
+35,67295,Master,800,43324,Car,1
+21,103042,PhD,372,42974,Medical,0
+42,105999,Bachelor,595,43759,Personal,1
+31,37955,Master,316,24196,Home,1
+26,57841,Master,516,41287,Car,1
+43,90640,Bachelor,360,14669,Car,0
+19,85510,Master,341,38380,Car,1
+37,54911,High School,324,46141,Medical,1
+45,79031,High School,338,49320,Personal,1
+64,108726,Bachelor,430,48414,Medical,1
+24,27357,PhD,797,39006,Education,0
+61,52479,PhD,528,16577,Car,1
+25,81476,Bachelor,407,23473,Education,0
+64,64811,Bachelor,471,29625,Home,1
+52,56208,High School,734,16504,Home,0
+31,40150,PhD,777,25089,Medical,1
+34,91180,Master,401,37487,Personal,1
+53,63286,High School,823,1302,Education,0
+57,88450,Bachelor,574,32463,Personal,1
+21,41352,PhD,343,45912,Medical,0
+19,75069,Master,316,30259,Home,1
+23,34397,Master,629,43823,Personal,1
+59,61555,High School,796,38208,Personal,1
+21,66959,PhD,311,31659,Home,0
+46,20728,PhD,617,36840,Education,1
+35,70517,Bachelor,515,32890,Home,1
+43,86234,PhD,638,14598,Personal,0
+61,59954,PhD,380,48055,Education,1
+51,67280,High School,784,47733,Education,0
+27,99459,PhD,673,20508,Home,1
+53,36779,Master,499,43287,Personal,0
+31,83932,High School,836,14380,Medical,1
+48,92936,High School,765,27984,Personal,1
+32,44466,Bachelor,388,45633,Car,0
+25,56939,PhD,567,9125,Medical,0
+31,89896,Bachelor,788,37059,Education,0
+40,55270,Master,837,5033,Medical,1
+57,79163,High School,346,38873,Education,0
+38,102637,High School,587,18087,Education,1
+33,71934,High School,315,41901,Medical,0
+62,84895,Master,700,6704,Education,0
+35,52307,Master,385,8848,Education,1
+64,74098,Bachelor,549,22592,Car,0
+41,80921,Bachelor,690,46743,Personal,1
+43,25486,Bachelor,634,7924,Personal,1
+42,28335,PhD,818,28208,Car,1
+62,106900,High School,436,20614,Medical,1
+58,109112,High School,797,1488,Home,1
+46,117203,Bachelor,776,40882,Home,0
+32,31130,High School,522,26923,Home,0
+62,107508,Bachelor,671,49508,Car,0
+18,80566,PhD,701,36941,Car,1
+42,86703,PhD,742,30165,Education,0
+24,47192,Master,789,2667,Home,1
+26,21062,PhD,572,27213,Medical,1
+41,104076,Bachelor,825,5114,Medical,1
+18,109780,PhD,458,37321,Home,1
+61,41545,Master,451,8761,Home,0
+25,41689,High School,487,32116,Home,1
+41,31174,Bachelor,397,34768,Car,1
+28,108461,High School,430,49406,Car,0
+34,29348,Master,470,26426,Car,0
+25,43714,Master,482,18772,Personal,1
+52,58102,Master,663,39218,Medical,1
+52,94460,High School,338,4712,Medical,1
+50,109930,High School,826,2367,Education,1
+22,26801,High School,796,41957,Car,1
+59,92267,High School,815,42781,Personal,1
+56,68136,Master,648,27200,Personal,1
+58,43625,Master,696,4726,Medical,0
+45,102873,Bachelor,460,24616,Car,1
+24,92592,Bachelor,315,28723,Education,1
+26,97052,High School,792,38574,Car,1
+25,64261,PhD,725,35958,Home,1
+29,21542,PhD,407,10108,Car,1
+51,41677,Master,749,13178,Home,1
+50,66732,Master,610,36643,Home,1
+40,70343,Master,469,32324,Education,1
+41,59081,Bachelor,845,39360,Medical,1
+54,82856,Bachelor,713,18824,Car,0
+52,113105,Master,550,46360,Home,1
+61,108858,Master,440,9927,Car,0
+57,39065,Master,573,29144,Medical,0
+39,103460,PhD,715,32010,Medical,1
+44,108092,Bachelor,338,23443,Personal,1
+52,74693,PhD,328,15437,Medical,1
+18,46962,PhD,776,45298,Education,1
+52,48295,Master,617,40778,Home,1
+54,33807,Master,544,12207,Personal,1
+64,62348,High School,571,26537,Education,1
+31,46432,High School,739,36757,Car,0
+20,103285,PhD,538,13040,Home,0
+18,111792,Bachelor,676,42986,Medical,0
+22,77854,Master,565,23612,Home,1
+43,60262,Master,658,29441,Car,0
+31,57080,PhD,639,7471,Personal,0
+56,21324,High School,688,36631,Personal,0
+44,111267,Bachelor,302,44461,Personal,1
+26,55909,High School,728,27523,Medical,0
+32,109339,High School,441,32348,Education,1
+32,39870,High School,675,2177,Education,0
+43,54578,High School,623,5760,Home,1
+59,92124,Master,445,33779,Medical,0
+30,46790,Master,592,22636,Personal,0
+49,45289,High School,731,17353,Personal,1
+56,75129,Bachelor,698,12556,Car,0
+49,113714,PhD,643,28598,Car,0
+21,114246,Bachelor,439,12563,Personal,0
+47,35485,Bachelor,486,47819,Personal,0
+54,64482,Bachelor,360,44790,Medical,0
+40,106188,High School,679,9234,Education,0
+56,24748,Master,739,26519,Car,1
+62,106769,Bachelor,618,27966,Education,1
+32,29435,High School,601,17173,Medical,1
+60,23709,Bachelor,643,27987,Personal,0
+46,50355,Bachelor,310,14178,Education,1
+53,75771,High School,361,40338,Personal,0
+30,77799,Master,525,25596,Personal,0
+49,33116,Master,452,34174,Home,1
+24,45470,PhD,609,42974,Education,0
+39,62344,High School,542,5431,Education,0
+45,62918,PhD,792,28764,Personal,1
+19,72224,PhD,665,22627,Medical,1
+59,59298,PhD,629,40310,Home,1
+62,100219,Master,406,9906,Personal,1
+23,81629,High School,525,37914,Car,1
+45,86040,PhD,517,45814,Car,0
+45,119518,High School,805,46379,Home,0
+61,119835,High School,558,14076,Medical,0
+61,48016,Master,816,38650,Personal,1
+37,43960,PhD,353,47881,Education,1
+47,53591,PhD,346,47413,Home,1
+28,102848,High School,820,7012,Medical,1
+45,87641,Bachelor,398,8151,Education,1
+42,56395,Master,319,29211,Car,0
+56,42700,Master,789,28117,Car,1
+50,54620,Master,718,37378,Education,1
+18,40559,Master,361,43652,Home,1
+44,113045,PhD,444,7894,Car,0
+30,113396,PhD,515,14467,Personal,1
+58,81642,Bachelor,302,32010,Education,0
+20,96539,Master,459,43641,Education,0
+56,41732,Master,419,13289,Car,0
+23,111362,High School,388,45976,Home,1
+25,50354,PhD,628,44596,Personal,1
+44,33843,Master,656,24171,Home,0
+26,91726,Bachelor,566,35905,Medical,0
+54,37640,Bachelor,622,21829,Medical,1
+50,72528,PhD,840,35054,Car,0
+59,58413,Bachelor,494,49478,Car,0
+61,72638,Bachelor,631,45139,Car,1
+41,72736,PhD,469,49713,Medical,1
+32,88866,Master,820,30734,Home,0
+49,39087,Master,762,8052,Home,0
+49,61430,Bachelor,339,4654,Car,0
+41,44504,Bachelor,836,24486,Personal,1
+58,27114,Master,560,19743,Home,1
+29,98859,PhD,694,49368,Medical,1
+56,119657,Bachelor,525,25489,Education,0
+19,30975,High School,423,9636,Education,1
+20,31023,PhD,337,7441,Education,0
+54,41447,Bachelor,627,25611,Personal,1
+34,110469,Bachelor,550,43435,Car,1
+19,43959,High School,475,13149,Medical,1
+19,86203,High School,753,35566,Personal,1
+45,49703,Master,336,43368,Medical,1
+40,29337,PhD,615,22675,Medical,0
+54,66427,PhD,413,6495,Car,1
+49,81529,Master,339,43668,Education,0
+50,104665,PhD,600,14673,Car,1
+18,51921,PhD,523,12130,Personal,0
+36,53307,PhD,617,23668,Personal,0
+19,47355,PhD,648,16222,Personal,1
+61,24835,PhD,414,24669,Car,0
+43,40159,High School,622,35068,Medical,1
+49,67605,PhD,339,24253,Medical,1
+23,58088,High School,339,10435,Home,0
+49,98752,PhD,588,29552,Personal,0
+21,75284,Master,561,38384,Medical,1
+28,77043,Bachelor,515,17393,Home,0
+34,55547,High School,446,11617,Medical,1
+55,117007,PhD,635,39520,Personal,1
+41,102844,Master,467,10852,Education,1
+22,47532,Bachelor,391,32401,Personal,1
+51,54349,High School,652,7295,Car,1
+23,65445,Bachelor,662,36993,Medical,1
+39,25713,Master,644,35084,Medical,0
+28,76178,High School,469,46105,Car,0
+33,69407,Bachelor,655,40575,Car,1
+50,90340,PhD,490,37451,Education,1
+26,70990,High School,721,8227,Medical,1
+23,95672,Bachelor,306,32910,Medical,1
+33,85545,Master,432,37041,Education,1
+46,104791,Master,330,24384,Home,1
+20,78141,High School,834,1145,Education,1
+37,43793,Bachelor,725,38778,Personal,0
+53,76570,High School,693,17035,Medical,1
+36,115084,High School,662,4040,Car,0
+43,57892,Bachelor,736,43422,Personal,1
+20,21015,Bachelor,381,27160,Medical,1
+36,81813,PhD,655,18633,Education,1
+37,47712,Bachelor,557,30344,Personal,0
+49,28415,Master,823,18014,Medical,0
+24,82292,High School,594,15996,Home,1
+58,43833,High School,523,42621,Home,0
+50,24158,Master,824,12695,Car,1
+57,82680,Bachelor,345,3852,Medical,0
+56,40309,Master,412,17014,Home,0
+35,26970,Master,532,28042,Education,0
+57,92474,PhD,316,34755,Medical,1
+18,106704,Master,659,41390,Education,1
+28,66540,High School,522,24711,Education,0
+45,40384,Master,747,27122,Home,0
+42,38017,High School,664,10160,Medical,1
+40,95880,High School,625,28213,Personal,0
+48,28702,High School,766,40420,Home,1
+47,20384,Bachelor,713,8421,Home,1
+59,20404,PhD,754,22400,Medical,0
+52,60943,High School,532,34537,Medical,0
+24,67926,High School,523,18727,Education,1
+33,49189,Bachelor,711,47882,Medical,1
+43,32763,High School,634,5358,Education,1
+19,38384,Master,521,29482,Home,0
+18,80100,Master,336,33117,Car,1
+29,118142,PhD,577,24164,Personal,0
+22,29860,High School,495,32910,Home,1
+54,100642,Bachelor,783,33496,Medical,1
+49,70612,Master,541,45311,Personal,0
+26,43574,Bachelor,623,30371,Car,0
+58,43524,Bachelor,491,39467,Car,0
+52,89172,Master,316,18625,Education,0
+36,30916,Bachelor,823,34893,Personal,0
+33,24809,Master,700,11793,Education,0
+20,52201,Bachelor,321,32007,Home,1
+37,73330,Master,773,26766,Personal,1
+41,33456,High School,419,40532,Home,0
+50,76397,PhD,509,13323,Education,1
+41,58765,Master,605,46799,Personal,0
+28,54816,Master,569,47820,Education,1
+25,65106,PhD,584,46408,Personal,0
+53,73932,Master,526,8843,Education,1
+55,37100,Master,680,15210,Car,1
+57,77091,Bachelor,759,17456,Education,1
+37,41949,PhD,306,32367,Car,1
+52,90080,High School,328,11106,Education,0
+42,57744,Master,332,38957,Personal,1
+52,65543,PhD,378,3472,Personal,0
+42,112193,Bachelor,758,7704,Personal,0
+46,56187,High School,837,4713,Medical,0
+35,27239,PhD,781,6051,Home,1
+63,34489,High School,729,11756,Personal,0
+35,78017,High School,584,3475,Car,1
+19,81877,High School,815,37378,Personal,1
+52,63125,Master,398,5255,Medical,1
+33,69922,Master,696,15484,Car,1
+58,114074,Bachelor,788,35503,Medical,1
+53,52049,Bachelor,338,9258,Car,0
+50,57131,PhD,570,41747,Education,0
+21,62944,Bachelor,456,36196,Home,0
+50,93963,High School,374,46113,Home,0
+31,44285,High School,429,41194,Medical,0
+38,57626,Master,383,9533,Home,0
+37,62808,High School,321,33581,Medical,1
+25,108464,PhD,758,6249,Medical,1
+24,73871,High School,838,20201,Medical,0
+20,39198,High School,681,10686,Home,1
+34,39758,PhD,739,47877,Medical,0
+50,35254,Bachelor,320,33007,Home,1
+29,64238,Bachelor,602,1661,Medical,1
+39,21252,PhD,383,45843,Personal,1
+39,59764,Master,752,31137,Medical,1
+63,97709,High School,686,48556,Car,1
+47,57441,PhD,806,43828,Medical,1
+55,112234,High School,556,49604,Education,1
+55,73682,Master,826,11526,Medical,1
+62,79494,High School,461,4374,Car,1
+25,101317,PhD,462,26592,Car,0
+44,85215,High School,823,29982,Home,0
+44,98587,Bachelor,570,1207,Personal,0
+51,26949,Master,791,36433,Medical,1
+38,75393,Master,507,24197,Home,1
+47,93553,Master,838,34400,Personal,0
+50,26941,PhD,359,4083,Medical,1
+45,45934,Master,729,30328,Education,1
+64,43386,Bachelor,608,47479,Medical,1
+50,81886,PhD,819,43891,Car,1
+22,95745,Bachelor,326,21103,Car,1
+36,103251,High School,498,40891,Education,0
+21,114456,High School,686,11754,Home,1
+52,73413,High School,648,35447,Personal,0
+34,76800,High School,835,16901,Medical,1
+61,117239,Bachelor,677,34004,Car,0
+45,62318,PhD,826,8446,Home,1
+47,90173,PhD,452,38211,Education,1
+46,90390,Master,505,49231,Car,0
+63,72329,Bachelor,754,30301,Education,1
+23,63088,High School,572,27116,Medical,1
+52,59811,Bachelor,535,42323,Personal,1
+58,75479,Master,820,19752,Car,1
+54,105392,Master,800,33376,Car,1
+41,107369,Bachelor,416,17669,Medical,0
+46,39963,Bachelor,685,33916,Home,0
+63,75123,Bachelor,643,14395,Personal,0
+48,112705,PhD,694,21421,Car,1
+52,93477,High School,363,27342,Personal,0
+50,34388,Bachelor,371,5895,Car,1
+38,25569,Bachelor,573,12023,Personal,1
+49,89836,Bachelor,619,11699,Education,1
+40,56586,Master,637,10715,Car,1
+50,32015,Master,665,20169,Personal,1
+20,65002,PhD,794,17163,Home,1
+35,26254,High School,465,6782,Education,1
+42,37144,PhD,843,23641,Education,1
+59,44214,High School,310,19792,Home,1
+48,100719,Master,600,36585,Personal,1
+20,91774,Master,401,31682,Medical,0
+57,26090,Master,724,48864,Home,0
+63,31637,PhD,691,19880,Personal,1
+41,42415,Bachelor,513,39067,Home,1
+49,44071,Bachelor,387,43685,Home,1
+64,78243,Master,700,19073,Car,1
+39,61240,Bachelor,345,37035,Personal,0
+40,103807,Bachelor,762,38174,Medical,1
+19,53434,PhD,609,25837,Car,1
+44,89724,High School,385,18826,Home,1
+59,95697,Master,391,25981,Home,1
+19,48732,Master,541,11382,Home,1
+43,31314,PhD,301,5437,Personal,0
+34,43954,PhD,524,6435,Personal,1
+57,77108,Bachelor,415,25819,Car,1
+50,107044,Master,402,37875,Medical,1
+26,107505,High School,493,32982,Car,1
+60,56668,PhD,465,34328,Education,0
+56,43061,High School,389,13329,Home,0
+46,99252,High School,421,26169,Home,0
+59,59749,Master,442,22932,Home,1
+43,36907,Master,405,35594,Car,0
+52,38777,PhD,727,12421,Car,0
+42,113229,Master,604,46033,Home,1
+41,71745,Master,616,8629,Car,0
+30,111865,Master,308,9325,Personal,1
+24,101818,High School,372,29495,Personal,1
+53,43624,PhD,658,32750,Car,1
+62,43321,Bachelor,522,30619,Home,0
+37,30488,High School,715,41461,Car,0
+18,42574,Master,669,9264,Car,1
+25,25240,High School,563,13686,Car,1
+63,63221,Master,617,47484,Education,1
+33,30478,Master,383,25226,Personal,0
+31,75645,High School,617,7721,Medical,1
+29,39262,PhD,410,21609,Medical,1
+40,72796,Master,550,8373,Education,1
+32,24432,PhD,682,39675,Car,1
+45,115257,Bachelor,306,49895,Education,1
+51,84291,Master,758,29937,Education,1
+19,99104,PhD,383,6656,Home,0
+49,79399,PhD,507,9984,Personal,1
+40,99714,Bachelor,689,30984,Medical,0
+39,70428,PhD,613,9286,Car,1
+42,107731,PhD,321,6901,Medical,1
+39,20302,Bachelor,709,32552,Medical,0
+39,102558,Master,814,26709,Personal,0
+59,20055,PhD,426,32055,Medical,0
+23,28717,PhD,313,38685,Medical,1
+32,48699,PhD,311,9429,Education,1
+60,93686,High School,386,15716,Personal,0
+54,87661,Bachelor,823,49563,Home,1
+50,64247,High School,836,12138,Car,1
+25,36748,Bachelor,600,36298,Medical,0
+61,24621,Master,542,24429,Car,0
+61,35034,Master,421,6772,Home,1
+22,25126,PhD,446,49244,Car,1
+56,25122,Bachelor,655,49519,Home,1
+21,38030,Master,608,36732,Education,0
+23,102838,Bachelor,587,40905,Medical,0
+62,104717,Master,606,18347,Home,1
+49,75658,High School,848,17920,Car,0
+47,58638,Master,651,32822,Medical,0
+64,87067,High School,611,47659,Education,0
+52,108869,Master,358,41108,Medical,1
+57,54674,PhD,334,24563,Home,1
+33,55854,High School,744,8967,Education,1
+30,66271,Master,392,46183,Car,1
+59,93688,PhD,506,12871,Education,0
+47,58518,High School,652,29763,Education,1
+36,30267,PhD,631,12916,Personal,0
+34,110825,Bachelor,458,9734,Education,1
+36,21062,Bachelor,323,34613,Education,1
+45,70448,High School,703,29179,Medical,1
+43,115462,Master,815,36262,Car,0
+54,26229,High School,663,13677,Medical,1
+43,76793,PhD,681,19268,Medical,0
+40,67915,Master,831,13330,Home,1
+26,24632,Bachelor,451,21733,Medical,1
+29,23596,Master,719,38947,Personal,1
+18,26168,Bachelor,549,28286,Personal,1
+18,27561,Master,416,7610,Home,1
+64,93794,Master,811,7430,Car,0
+51,102152,Master,634,40922,Car,1
+49,46734,PhD,717,14828,Medical,0
+42,26371,PhD,594,43913,Medical,1
+57,46069,High School,670,32497,Medical,1
+62,99905,High School,485,40256,Car,1
+18,32910,Bachelor,545,37618,Education,1
+33,93479,PhD,567,47332,Personal,1
+56,97735,Bachelor,536,27526,Education,0
+22,101264,High School,829,31158,Education,1
+39,43275,Bachelor,320,26032,Car,0
+46,92274,High School,819,38846,Education,1
+20,101449,PhD,399,45936,Home,0
+29,80004,Master,777,30794,Medical,0
+43,82981,PhD,597,6448,Home,1
+33,104659,Bachelor,825,29861,Personal,0
+54,74553,Bachelor,633,29141,Medical,1
+39,68447,PhD,301,10074,Education,0
+46,54529,PhD,674,7406,Personal,0
+31,95703,High School,592,32823,Medical,1
+45,96090,Bachelor,617,24291,Education,0
+22,37260,Bachelor,801,42568,Home,0
+64,23812,PhD,680,33003,Medical,1
+47,48024,Master,313,47851,Education,0
+63,78656,Bachelor,803,35406,Home,1
+22,47285,Master,530,24312,Personal,0
+29,112436,PhD,383,44108,Personal,0
+33,21605,PhD,429,2382,Personal,1
+43,91158,High School,444,35171,Personal,0
+43,92303,Bachelor,327,42779,Car,0
+38,47139,Master,365,4292,Medical,0
+56,97149,High School,462,42779,Medical,0
+53,76138,Bachelor,528,34187,Car,1
+50,96125,High School,560,13411,Education,0
+47,33918,PhD,748,38285,Education,1
+54,105655,Bachelor,723,16422,Personal,1
+40,47446,High School,759,43468,Home,1
+27,33046,High School,600,33371,Education,1
+22,44818,Master,602,6693,Home,0
+53,24324,High School,586,34535,Medical,1
+51,96323,Bachelor,694,15818,Home,0
+48,29111,Bachelor,309,32238,Medical,1
+27,58110,Master,569,31874,Car,1
+36,36389,Bachelor,660,27715,Car,0
+49,61427,PhD,556,28605,Personal,1
+18,99579,Bachelor,432,35317,Education,1
+22,48746,Bachelor,575,32174,Personal,0
+62,107886,High School,812,10956,Medical,0
+21,20117,High School,612,39908,Personal,1
+33,104471,Bachelor,583,11837,Home,1
+41,33234,Master,420,4716,Medical,1
+33,73441,High School,406,5481,Car,1
+19,20846,Master,503,25282,Education,1
+45,30954,Bachelor,464,7548,Medical,1
+49,99239,Bachelor,604,38605,Medical,0
+44,66514,PhD,796,8758,Home,0
+37,108236,High School,455,44668,Education,1
+41,117579,Bachelor,666,24177,Car,1
+29,26469,PhD,550,25022,Medical,0
+52,50105,High School,633,41761,Medical,0
+50,62101,Bachelor,810,6542,Home,1
